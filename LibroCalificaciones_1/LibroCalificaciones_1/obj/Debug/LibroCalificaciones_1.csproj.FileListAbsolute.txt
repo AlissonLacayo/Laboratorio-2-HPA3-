@@ -1,0 +1,14 @@
+C:\Users\niomu\Desktop\Alisson Lacayo Lab 2 HPA\LibroCalificaciones_1\LibroCalificaciones_1\bin\Debug\LibroCalificaciones_1.exe.config
+C:\Users\niomu\Desktop\Alisson Lacayo Lab 2 HPA\LibroCalificaciones_1\LibroCalificaciones_1\bin\Debug\LibroCalificaciones_1.exe
+C:\Users\niomu\Desktop\Alisson Lacayo Lab 2 HPA\LibroCalificaciones_1\LibroCalificaciones_1\bin\Debug\LibroCalificaciones_1.pdb
+C:\Users\niomu\Desktop\Alisson Lacayo Lab 2 HPA\LibroCalificaciones_1\LibroCalificaciones_1\obj\Debug\LibroCalificaciones_1.csproj.AssemblyReference.cache
+C:\Users\niomu\Desktop\Alisson Lacayo Lab 2 HPA\LibroCalificaciones_1\LibroCalificaciones_1\obj\Debug\LibroCalificaciones_1.csproj.CoreCompileInputs.cache
+C:\Users\niomu\Desktop\Alisson Lacayo Lab 2 HPA\LibroCalificaciones_1\LibroCalificaciones_1\obj\Debug\LibroCalificaciones_1.exe
+C:\Users\niomu\Desktop\Alisson Lacayo Lab 2 HPA\LibroCalificaciones_1\LibroCalificaciones_1\obj\Debug\LibroCalificaciones_1.pdb
+C:\Users\niomu\Desktop\Alisson Lacayo Lab 2 HPA 3\LibroCalificaciones_1\LibroCalificaciones_1\bin\Debug\LibroCalificaciones_1.exe.config
+C:\Users\niomu\Desktop\Alisson Lacayo Lab 2 HPA 3\LibroCalificaciones_1\LibroCalificaciones_1\bin\Debug\LibroCalificaciones_1.exe
+C:\Users\niomu\Desktop\Alisson Lacayo Lab 2 HPA 3\LibroCalificaciones_1\LibroCalificaciones_1\bin\Debug\LibroCalificaciones_1.pdb
+C:\Users\niomu\Desktop\Alisson Lacayo Lab 2 HPA 3\LibroCalificaciones_1\LibroCalificaciones_1\obj\Debug\LibroCalificaciones_1.csproj.AssemblyReference.cache
+C:\Users\niomu\Desktop\Alisson Lacayo Lab 2 HPA 3\LibroCalificaciones_1\LibroCalificaciones_1\obj\Debug\LibroCalificaciones_1.csproj.CoreCompileInputs.cache
+C:\Users\niomu\Desktop\Alisson Lacayo Lab 2 HPA 3\LibroCalificaciones_1\LibroCalificaciones_1\obj\Debug\LibroCalificaciones_1.exe
+C:\Users\niomu\Desktop\Alisson Lacayo Lab 2 HPA 3\LibroCalificaciones_1\LibroCalificaciones_1\obj\Debug\LibroCalificaciones_1.pdb
