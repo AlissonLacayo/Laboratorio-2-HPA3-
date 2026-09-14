@@ -82,7 +82,7 @@ También se puede abrir la solución en Visual Studio y presionar F5.
 
 **Institución:** Universidad Tecnológica de Panamá (UTP)
 
-**Fecha de Realización:** 31/08/2026
+**Fecha de Realización:** 07/09/2026
 
 ## Referencias
 
