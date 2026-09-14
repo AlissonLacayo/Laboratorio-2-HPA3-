@@ -73,10 +73,15 @@ También se puede abrir la solución en Visual Studio y presionar F5.
 ## Autor
 
 **Nombre:** Alisson Lacayo
+
 **Asignatura:** Herramientas de Programación Aplicada III (.NET)
+
 **Grupo:** 1IL133
+
 **Carrera:** Licenciatura en Ingeniería en Sistemas y Computación
+
 **Institución:** Universidad Tecnológica de Panamá (UTP)
+
 **Fecha de Realización:** 31/08/2026
 
 ## Referencias
