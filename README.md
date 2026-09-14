@@ -1,6 +1,6 @@
 # Laboratorio # 2
 
-**Fecha:** 31/08/2026
+**Fecha:** 07/09/2026
 
 ## Contenido del Repositorio
 
@@ -14,15 +14,15 @@ Este laboratorio abarca el diseño e implementación de aplicaciones en C# (.NET
 
 ## Capturas de Pantalla y Problemas
 
-### Ejercicio 1: LibroCalificaciones_1 (Instanciación Básica)
+### Ejercicio 1: LibroCalificaciones_1 
 
 Se creó la clase LibroCalificacion definiendo un método público para mostrar un mensaje de bienvenida en consola. Se demostró la instanciación de objetos mediante el operador new y la invocación de sus métodos miembros.
 
-### Ejercicio 2: LibroCalificaciones_2 (Métodos con Parámetros)
+### Ejercicio 2: LibroCalificaciones_2
 
 Desarrollo de la lógica para recepción de argumentos dinámicos. Se configuraron métodos que aceptan parámetros de tipo cadena para personalizar la información mostrada y se integró la captura de entradas por consola mediante Console.ReadLine().
 
-### Ejercicio 3: LibroCalificaciones_3 (Encapsulamiento y Propiedades)
+### Ejercicio 3: LibroCalificaciones_3 
 
 Configuración de encapsulamiento estricto utilizando el modificador de acceso private en las variables de instancia. Se implementaron propiedades con descriptores get (lectura) y set (escritura) para garantizar la manipulación segura y controlada de los datos.
 
